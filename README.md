@@ -47,6 +47,14 @@ I don't just fine-tune models; I build end-to-end intelligent systems that solve
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant00CR7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
 </div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashwant00CR7/Yashwant00CR7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashwant00CR7/Yashwant00CR7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yashwant00CR7/Yashwant00CR7/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ---
 
 ### 🤝 Let's Work Together
