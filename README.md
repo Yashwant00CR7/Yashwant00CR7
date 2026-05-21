@@ -1,42 +1,44 @@
 <h1 align="center">Hi, I'm Yashwant 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Agentic+AI+Specialist;RAG+Pipelines+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=AI+Engineer;Agentic+AI+%26+RAG+Specialist;Flutter+%2B+AI+Builder;Open+to+Remote+%26+Freelance" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Yashwant00CR7/count.svg" alt="Visitor Count" />
 </p>
 
-I'm an AI/ML Engineer who builds things that think. I specialize in **Agentic AI, multi-agent orchestration, and production-grade RAG pipelines**. 
+I build end-to-end intelligent systems — from multi-agent swarms and RAG pipelines to on-device AI apps. Engineering student (2027 batch), focused on Agentic AI and production-grade LLM systems.
 
-I don't just fine-tune models; I build end-to-end intelligent systems that solve real-world problems. Whether it's a swarm of AI agents debugging code or a privacy-first on-device personal assistant, I love turning complex AI theory into fast, reliable, and scalable software.
-
-**🌍 I'm currently open for remote roles and freelance projects.** If you need someone to build intelligent workflows, automate complex tasks using LLMs, or architect a robust RAG system, we should talk.
+**Open for remote roles and freelance projects** in AI automation, LLM engineering, and GenAI.
 
 ---
 
-### 💻 My Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,dart,flutter,docker,gcp,sqlite,fastapi,postgres&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,ts,dart,flutter,docker,gcp,sqlite,fastapi,postgres,react&perline=10" />
   </a>
 </p>
 
-* **Agentic AI & RAG:** LangGraph, LangChain, Multi-Agent Swarms, GraphRAG, Model Context Protocol (MCP)
-* **AI/ML Foundations:** PyTorch, LLM Fine-Tuning (LoRA), Transformers, Sentence Embeddings
+- **Agentic AI & RAG:** LangGraph, LangChain, Google ADK, Multi-Agent Swarms, MCP (Model Context Protocol)
+- **AI/ML:** PyTorch, YOLOv8, DenseNet, LLM Fine-Tuning (LoRA), Sentence Transformers, Pinecone
+- **Mobile:** Flutter (Android/iOS), Dart, Firebase, Gemini on-device
+- **Backend:** FastAPI, Node.js, Flask, PostgreSQL, SQLite
 
 ---
 
-### 🚀 What I'm Building
+### 🚀 Featured Projects
 
-* **[AI-Powered Package Conflict Resolver](https://github.com/Yashwant00CR7/AI-Powered-Package-Conflict-Resolver)**
-  *A Stateful Multi-Agent Swarm that autonomously scrapes documentation and resolves dependency conflicts. Built with LangGraph, Crawl4AI, and LangSmith.*
-* **[Calendar AI: Serverless Agentic Scheduler](https://github.com/Yashwant00CR7/Calendar-Agent)**
-  *A privacy-first, on-device agentic scheduler built with Flutter and Gemini 2.5 Flash, executing function calls with millisecond native latency.*
-* **[Career Development Assistant](https://github.com/Yashwant00CR7/Personalized-Suggestion-AI)**
-  *A RAG-based AI mentor using Pinecone and Sentence Transformers to analyze resumes and generate personalized, data-driven career roadmaps.*
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [AI Package Conflict Resolver](https://github.com/Yashwant00CR7/AI-Powered-Package-Conflict-Resolver) | Multi-agent swarm that autonomously resolves Python dependency conflicts. Live MCP server on HuggingFace. | LangGraph, Gemini, Pinecone |
+| [Calendar AI](https://github.com/Yashwant00CR7/Calendar-Agent) | 100% on-device agentic scheduler. No backend, no cloud costs. | Flutter, Gemini 2.5 Flash |
+| [ArchMind](https://github.com/Yashwant00CR7/Archy) | Generates professional cloud architecture diagrams from text or GitHub URLs. MCP server available via npx. | React, Gemini, Mermaid.js |
+| [Sleep Protection](https://github.com/Yashwant00CR7/Sleeping-Protection) | Privacy-first Android app that silences calls during sleep with emergency bypass via SMS. Zero cloud. | Flutter, Kotlin |
+| [Currency Detector](https://github.com/Yashwant00CR7/CurrencyDetector) | Real-time Indian currency detection for visually impaired users. 93.5% YOLO accuracy + DenseNet CNN. | YOLOv8, TensorFlow, Flutter |
+| [Career Assistant](https://github.com/Yashwant00CR7/Personalized-Suggestion-AI) | RAG-based AI mentor that analyzes resumes and generates personalized career roadmaps. | LangChain, Gemini, Pinecone |
 
 ---
 
@@ -45,6 +47,10 @@ I don't just fine-tune models; I build end-to-end intelligent systems that solve
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashwant00CR7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant00CR7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwant00CR7&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <p align="center">
@@ -57,13 +63,24 @@ I don't just fine-tune models; I build end-to-end intelligent systems that solve
 
 ---
 
-### 🤝 Let's Work Together
+### 🧩 Competitive Programming
 
-I'm always looking for exciting projects, especially in the AI automation and GenAI space. Whether you have a freelance gig, a remote role, or just want to chat about the future of multi-agent systems, my inbox is open.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Yashwant_K?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+- **LeetCode:** 191 solved (92 Easy / 96 Medium / 3 Hard) · Contest Rating 1528 · Top 36%
+- **Kaggle:** [yashwantk23cse](https://kaggle.com/yashwantk23cse) · Indian Currency Dataset published
+- Strong in: Dynamic Programming, Backtracking, Arrays
+
+---
+
+### 🤝 Let's Work Together
 
 <p align="center">
   <a href="mailto:yashwantk0305@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/yashwant-k-935aa0292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://portfolio-website-steel-zeta-99.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://leetcode.com/u/Yashwant_K/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://kaggle.com/yashwantk23cse"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
