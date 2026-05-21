@@ -50,7 +50,7 @@ I build end-to-end intelligent systems — from multi-agent swarms and RAG pipel
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yashwant00CR7&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Yashwant00CR7&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="center">
