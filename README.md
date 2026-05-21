@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Yashwant00CR7/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Yashwant00CR7&style=flat-square&color=10B981" alt="Visitor Count" />
 </p>
 
 I build end-to-end intelligent systems — from multi-agent swarms and RAG pipelines to on-device AI apps. Engineering student (2027 batch), focused on Agentic AI and production-grade LLM systems.
